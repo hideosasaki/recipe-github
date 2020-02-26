@@ -1,0 +1,16 @@
+{
+  "id": "github",
+  "name": "GitHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "hideosasaki",
+  "license": "MIT",
+  "repository": "https://github.com/hideosasaki/recipe-gihub",
+  "config": {
+    "serviceURL": "https://github.com/notifications",
+    "hasNotificationSound": true,
+    "hasIndirectMessages": true
+  },
+  "openDevTools": true
+}
